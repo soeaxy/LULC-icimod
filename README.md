@@ -1,5 +1,5 @@
 
-[#READ DOCUMENT INSTEAD](https://docs.google.com/document/d/1WrrvFsWA7uIFNEHje52xQ6dRn_byJ0B1QBm3uoUevFc/edit?usp=sharing)
+[#READ DOCUMENT INSTEAD](https://docs.google.com/document/d/e/2PACX-1vTvjE5j6wUWgY6VbsI9m5NWMzAdmOTJMiqvApiESCQ4pWenbE7dBQjVzXZCP1TwM94uLx6OugDHnGj_/pub)
 
 
 **<span style="text-decoration:underline;">Supervised classification of Land use/ Land cover map of Nepal 2020</span>**
